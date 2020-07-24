@@ -1,4 +1,4 @@
 # Code detecting Motifs with signed uni-directed links
 
-![Motifs](images/motifs.png | width=80%)
+<img src="images/motifs.png" width="40%">
 
